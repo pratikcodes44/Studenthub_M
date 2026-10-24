@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "title": "Web Development Workshop",
+        "category": "Technical",
+        "date": "2026-11-06",
+        "location": "Computer Lab 1"
+    },
+    {
+        "id": 2,
+        "title": "Campus Coding Challenge",
+        "category": "Competition",
+        "date": "2026-12-08",
+        "location": "Seminar Hall"
+    },
+    {
+        "id": 3,
+        "title": "Design Thinking Session",
+        "category": "Workshop",
+        "date": "2026-11-10",
+        "location": "Main Auditorium"
+    },
+    {
+        "id": 4,
+        "title": "Tech Quiz",
+        "category": "Campus",
+        "date": "2026-12-12",
+        "location": "Innovation Room"
+    },
+    {
+        "id": 5,
+        "title": "Student Club Meet",
+        "category": "Technical",
+        "date": "2026-11-14",
+        "location": "Computer Lab 1"
+    },
+    {
+        "id": 6,
+        "title": "AI Introduction",
+        "category": "Competition",
+        "date": "2026-12-16",
+        "location": "Seminar Hall"
+    },
+    {
+        "id": 7,
+        "title": "Cyber Safety Talk",
+        "category": "Workshop",
+        "date": "2026-11-18",
+        "location": "Main Auditorium"
+    },
+    {
+        "id": 8,
+        "title": "Project Showcase",
+        "category": "Campus",
+        "date": "2026-12-20",
+        "location": "Innovation Room"
+    },
+    {
+        "id": 9,
+        "title": "Career Guidance",
+        "category": "Technical",
+        "date": "2026-11-22",
+        "location": "Computer Lab 1"
+    },
+    {
+        "id": 10,
+        "title": "Open Source Day",
+        "category": "Competition",
+        "date": "2026-12-24",
+        "location": "Seminar Hall"
+    },
+    {
+        "id": 11,
+        "title": "Hackathon Basics",
+        "category": "Workshop",
+        "date": "2026-11-26",
+        "location": "Main Auditorium"
+    },
+    {
+        "id": 12,
+        "title": "Robotics Intro",
+        "category": "Campus",
+        "date": "2026-12-01",
+        "location": "Innovation Room"
+    },
+    {
+        "id": 13,
+        "title": "UI Design Camp",
+        "category": "Technical",
+        "date": "2026-11-03",
+        "location": "Computer Lab 1"
+    },
+    {
+        "id": 14,
+        "title": "Library Orientation",
+        "category": "Competition",
+        "date": "2026-12-05",
+        "location": "Seminar Hall"
+    },
+    {
+        "id": 15,
+        "title": "Annual Tech Day",
+        "category": "Workshop",
+        "date": "2026-11-07",
+        "location": "Main Auditorium"
+    }
+]

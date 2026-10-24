@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Aarav Patel",
+        "email": "aarav.patel@example.com",
+        "department": "CE",
+        "year": "1"
+    },
+    {
+        "id": 2,
+        "name": "Riya Shah",
+        "email": "riya.shah@example.com",
+        "department": "IT",
+        "year": "2"
+    },
+    {
+        "id": 3,
+        "name": "Dev Mehta",
+        "email": "dev.mehta@example.com",
+        "department": "CSE",
+        "year": "3"
+    },
+    {
+        "id": 4,
+        "name": "Mahi Desai",
+        "email": "mahi.desai@example.com",
+        "department": "CE",
+        "year": "4"
+    },
+    {
+        "id": 5,
+        "name": "Kabir Joshi",
+        "email": "kabir.joshi@example.com",
+        "department": "IT",
+        "year": "1"
+    },
+    {
+        "id": 6,
+        "name": "Anaya Trivedi",
+        "email": "anaya.trivedi@example.com",
+        "department": "CSE",
+        "year": "2"
+    },
+    {
+        "id": 7,
+        "name": "Vivaan Parikh",
+        "email": "vivaan.parikh@example.com",
+        "department": "CE",
+        "year": "3"
+    },
+    {
+        "id": 8,
+        "name": "Ishita Dave",
+        "email": "ishita.dave@example.com",
+        "department": "IT",
+        "year": "4"
+    },
+    {
+        "id": 9,
+        "name": "Krish Modi",
+        "email": "krish.modi@example.com",
+        "department": "CSE",
+        "year": "1"
+    },
+    {
+        "id": 10,
+        "name": "Diya Raval",
+        "email": "diya.raval@example.com",
+        "department": "CE",
+        "year": "2"
+    },
+    {
+        "id": 11,
+        "name": "Arjun Pandya",
+        "email": "arjun.pandya@example.com",
+        "department": "IT",
+        "year": "3"
+    },
+    {
+        "id": 12,
+        "name": "Nisha Vyas",
+        "email": "nisha.vyas@example.com",
+        "department": "CSE",
+        "year": "4"
+    },
+    {
+        "id": 13,
+        "name": "Reyansh Gandhi",
+        "email": "reyansh.gandhi@example.com",
+        "department": "CE",
+        "year": "1"
+    },
+    {
+        "id": 14,
+        "name": "Aditi Soni",
+        "email": "aditi.soni@example.com",
+        "department": "IT",
+        "year": "2"
+    },
+    {
+        "id": 15,
+        "name": "Manav Thakkar",
+        "email": "manav.thakkar@example.com",
+        "department": "CSE",
+        "year": "3"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "question": "How do I register for an account?",
+        "answer": "Open Register, fill in your details and submit the form."
+    },
+    {
+        "id": 2,
+        "question": "How can I log in?",
+        "answer": "Use the email and password entered during registration."
+    },
+    {
+        "id": 3,
+        "question": "Where can I see campus events?",
+        "answer": "Open the Events page from the navigation menu."
+    },
+    {
+        "id": 4,
+        "question": "Can I register for an event?",
+        "answer": "Yes. Log in first and then use the event registration button."
+    },
+    {
+        "id": 5,
+        "question": "Where is my dashboard?",
+        "answer": "After logging in, open Dashboard from the navigation menu."
+    },
+    {
+        "id": 6,
+        "question": "What is the Data Lab?",
+        "answer": "It is a page for practising JSON loading, search, filter, sorting and pagination."
+    },
+    {
+        "id": 7,
+        "question": "How can I contact the site team?",
+        "answer": "Use the Contact form and submit your message."
+    },
+    {
+        "id": 8,
+        "question": "Can I edit a student record?",
+        "answer": "The administrator can edit records on the student management page."
+    },
+    {
+        "id": 9,
+        "question": "Who can open the admin pages?",
+        "answer": "Only a logged-in account with the admin role can open admin pages."
+    },
+    {
+        "id": 10,
+        "question": "Where are contact messages saved?",
+        "answer": "They are saved in MySQL and copied to CSV and JSON files in storage."
+    },
+    {
+        "id": 11,
+        "question": "Can I upload an event poster?",
+        "answer": "The administrator can upload a JPG, PNG or WEBP poster under 2 MB."
+    },
+    {
+        "id": 12,
+        "question": "What does CRUD mean?",
+        "answer": "CRUD stands for Create, Read, Update and Delete."
+    },
+    {
+        "id": 13,
+        "question": "What is the Fetch API used for?",
+        "answer": "It sends requests from JavaScript and lets the page receive data without a full reload."
+    },
+    {
+        "id": 14,
+        "question": "What is an audit log?",
+        "answer": "It records selected actions performed in the website."
+    },
+    {
+        "id": 15,
+        "question": "What should I do if the page does not open?",
+        "answer": "Check that Apache and MySQL are running and use the localhost URL."
+    }
+]
